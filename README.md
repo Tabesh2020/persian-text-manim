@@ -1,1 +1,1 @@
-پلاگین فارسی ساز برای کتابخانه مانیم در پایتون
+Plugin for Persian language on Manim Library for Python 
